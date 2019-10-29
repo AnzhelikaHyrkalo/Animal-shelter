@@ -1,0 +1,58 @@
+.column {
+  width: 300px;
+  float: left;
+  /* border: 5px solid red; */
+}
+
+.column2 {
+  float: left;
+  width: 300px;
+  /* border: 5px solid blue; */
+}
+
+.row {
+  width: 100%;
+  clear: both;
+}
+
+img {
+    position: relative;
+    width:  200px;
+    height: 200px;
+  }
+
+h2 {
+  font-size: 32px;
+}
+
+p {
+  font-family: cursive;
+}
+
+.cat1 p {
+  background-color: red;
+}
+
+.cat1 p a {
+  color: yellow;
+}
+
+.cat2 p{
+  background-color: yellow;
+}
+
+.cat2 p a {
+  color:blue;
+}
+
+.dog1 p {
+  background-color: grey;
+}
+
+.dog1 p a {
+  color: pink;
+}
+
+.dog2 p {
+  background-color: orange;
+}
